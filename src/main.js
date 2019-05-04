@@ -10,6 +10,7 @@ Vue.component('AppBreadcrumb', AppBreadcrumb)
 
 Vue.config.productionTip = false
 
+//123456789
 new Vue({
   router,
   render: h => h(App)
